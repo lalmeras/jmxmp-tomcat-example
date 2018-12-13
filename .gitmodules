@@ -1,0 +1,4 @@
+[submodule "jmxmp-lifecycle-listener"]
+	path = jmxmp-lifecycle-listener
+	url = ../jmxmp-lifecycle-listener.git
+	branch = master
